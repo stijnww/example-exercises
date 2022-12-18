@@ -6,8 +6,14 @@
     }
   },
   "evaluation": {
-      "filename": "Echo.java"
+    "filename": "Echo.java"
   },
-  "labels": [],
-  "programming_language": "java"
+  "labels": [
+
+  ],
+  "programming_language": "java",
+  "internals": {
+    "token": "pRMhFxUxXj7VSyph8zc9_Ug92HvFmZF6QieP66D5FrABF_5RANs-NygM8uJNcM-d",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
