@@ -5,6 +5,12 @@
       "en": "Echo"
     }
   },
-  "labels": [],
-  "programming_language": "text"
+  "labels": [
+
+  ],
+  "programming_language": "text",
+  "internals": {
+    "token": "CSab_B4v8zd4Dmg5myDS758TIcmMjZfth4C4bzWSsI29rDjjwEKQzDWiF8w3MuP6",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
